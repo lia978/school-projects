@@ -76,7 +76,7 @@ public class TweetvsRetweetPlugin implements Plugin {
 		
 		// Get new keywords.
 		keywords.addAll(framework.getKeywords());
-		numKeywords = keywords.size();
+		int numKeywords = keywords.size();
 		
 		Map <String, List <TweetObject>> retweet = Tweetility.getRetweetsOnly(data);
 		Map <String, List <TweetObject>> tweet = Tweetility.getTweetsOnly(data);

@@ -33,6 +33,8 @@ public class HashTagCountPlugin implements Plugin {
 	private DataTable tweetCount;
 	private DataTable reTweetCount;
 	private DataTable totalCount;
+	private int width;
+	private int height;
 
 /**
  * 
