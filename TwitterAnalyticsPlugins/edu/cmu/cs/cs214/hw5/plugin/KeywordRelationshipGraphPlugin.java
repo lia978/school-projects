@@ -1,6 +1,5 @@
 package edu.cmu.cs.cs214.hw5.plugin;
 
-import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Point;
 import java.util.ArrayList;

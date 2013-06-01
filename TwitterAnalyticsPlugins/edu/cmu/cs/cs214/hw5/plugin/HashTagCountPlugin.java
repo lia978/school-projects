@@ -34,9 +34,6 @@ public class HashTagCountPlugin implements Plugin {
 	private DataTable reTweetCount;
 	private DataTable totalCount;
 
-
-
-	private int width, height;
 /**
  * 
  *  Do analysis by counting how many hashtags each tweet associate with a keyword has

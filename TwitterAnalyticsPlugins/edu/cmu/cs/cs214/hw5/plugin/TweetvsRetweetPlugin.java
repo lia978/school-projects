@@ -18,7 +18,6 @@ import org.jfree.chart.renderer.category.CategoryItemRenderer;
 import org.jfree.data.category.CategoryDataset;
 import org.jfree.data.category.DefaultCategoryDataset;
 
-import edu.cmu.cs.cs214.hw5.TimeOfDay;
 import edu.cmu.cs.cs214.hw5.framework.Framework;
 import edu.cmu.cs.cs214.hw5.framework.TweetObject;
 import edu.cmu.cs.cs214.hw5.framework.Tweetility;
@@ -36,7 +35,6 @@ public class TweetvsRetweetPlugin implements Plugin {
 	private Framework framework;
 	private int myID;
 	private List<String> keywords;
-	private int numKeywords;
 	private JPanel myPanel;
 	
 	private DefaultCategoryDataset chartData;
