@@ -1,11 +1,8 @@
-The framework is in source folder partC.
+Run Main.java from the edu.cmu.cs.cs214.hw5 package.
+
+Type into top left search bar and hit enter to add a keyword, for up to a maximum of 5 keywords.
 
 All plugins are in the plugin package.
-This include the given example plugin.
-
-
-
-
 
 KeywordRelationshipGraph plugin 
 create a geometrical network which position each given keyword
